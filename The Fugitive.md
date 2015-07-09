@@ -28,6 +28,7 @@ Follow the clues, **write down both the commands you used and the actual answers
 
 **Clue #2:** Now that we're here, we have insight that the fugitive was seen attending language classes in this country's officially recognized language. Check our databases and find out what language is spoken in this country, so we can call in a translator to work with you.
 
+Make your query return the countrys name, and its official status!
 ```SQL
 -- YOUR SQL QUERY GOES HERE
 ```
@@ -35,6 +36,7 @@ Follow the clues, **write down both the commands you used and the actual answers
 
 **Clue #3:** We have new news on the classes the fugitive attended – our agent tell us he's moved on to a different country, a country where people speak *only* the language he was learning. Find out which nearby country speaks nothing but that language.
 
+Make your query return the countrycode and the percentage as well as the country name
 ```SQL
 -- YOUR SQL QUERY GOES HERE
 ```
@@ -61,7 +63,7 @@ Follow the clues, **write down both the commands you used and the actual answers
 ```
 **Answer:**
 
-**Clue #7:** She knows we're on to him – her taxi dropped him off at the international airport, and he beat us to the boarding gates. We have one chance to catch him, we just have to know where he's heading and beat him to the landing dock.
+**Clue #7:** He knows we're on to him – his taxi dropped him off at the international airport, and he beat us to the boarding gates. We have one chance to catch him, we just have to know where he's heading and beat him to the landing dock.
 
 Lucky for us, he's getting cocky. She left us a note, and I'm sure he thinks he's very clever, but if we can crack it, we can finally put him where he belongs – behind bars.
 
